@@ -1,25 +1,1 @@
-We just published over local git repo to remote GitHub.com repository
-Few things happened:
-1. it automatically created new remote repo
-under GitHub.com Account
-2.made the connection with your local git repo
-3.added all your commits to remote repo
-
-
-
-now our work will continue locally
-
-1. add a new file called note .txt
-2.comited the change to local repo
-3.we want this change reflected to be reflected in remote repo so we PUSHEDlocal commits to remote repo using push origin button
-4. Observe it has been added in your repo under GitHub.com
-
-How to save after adding some text in sublime
-command+s
-or click on file save 
-
-
-
-We dont have to push one commit at a time you can push multiple commits in one shot there is no limit
-
-
+We just published over local git repo to remote GitHub.com repositoryFew things happened:1. it automatically created new remote repounder GitHub.com Account2.made the connection with your local git repo3.added all your commits to remote reponow our work will continue locally1. add a new file called note .txt2.comited the change to local repo3.we want this change reflected to be reflected in remote repo so we PUSHEDlocal commits to remote repo using push origin button4. Observe it has been added in your repo under GitHub.comHow to save after adding some text in sublimecommand+sor click on file save We dont have to push one commit at a time you can push multiple commits in one shot there is no limit
